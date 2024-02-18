@@ -1,5 +1,5 @@
-Economia de energia,0
-Equilibrado,1
-AMD RyzenT Balanced,2
-Alto desempenho,3
-AMD RyzenT High Performance,4
+Economia de energia:0
+Equilibrado:1
+AMD RyzenT Balanced:2
+Alto desempenho:3
+AMD RyzenT High Performance:4
